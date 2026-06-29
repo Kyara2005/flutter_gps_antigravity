@@ -65,7 +65,7 @@ La pantalla de mapa muestra la ruta recorrida como una polilínea verde sobre Op
 ### 🕒 Vista de Historial
 Lista de todos los puntos GPS capturados, ordenados del más reciente al más antiguo.
 <p align="center">
-  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/b5640b09-58ee-4f65-8a69-18c8f483ab6f" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/8fbf2621-8c4e-4aef-b5ca-dfa9b9e5f183" />
   <img width="30%" alt="image" src="https://github.com/user-attachments/assets/e332a7ee-20fc-4ac8-b263-bed2a911de5a" />
 </p>
 
