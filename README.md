@@ -16,6 +16,13 @@ El video cuenta con una duración de 3 minutos y se encuentra subido en la red s
 https://vt.tiktok.com/ZSCDfdtyR/
 ---
 
+## Informe
+
+En este informe se encuentra las comparaciones mejor organizadas:
+https://docs.google.com/document/d/13bJAG8kSKy69kUsnu-6VIb6kkAE-Fg-A/edit?usp=sharing&ouid=102007950152418730246&rtpof=true&sd=true
+
+---
+
 ## 📋 Descripción
 
 **GPS Tracker** es una aplicación Android construida con Flutter que permite:
